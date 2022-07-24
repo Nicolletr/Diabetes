@@ -1,0 +1,393 @@
+﻿Edad,Glucosa,Insulina,Presion Sanguinea,Indice de masa corporal,Clasificacion
+21,89,94,66,28.1,No diabetico
+33,137,168,40,43.1,Diabetico
+26,78,88,50,31,Diabetico
+53,197,543,70,30.5,Diabetico
+59,189,846,60,30.1,Diabetico
+51,166,175,72,25.8,Diabetico
+31,118,230,84,45.8,Diabetico
+33,103,83,30,43.3,No diabetico
+32,115,96,70,34.6,Diabetico
+27,126,235,88,39.3,No diabetico
+51,143,146,94,36.6,Diabetico
+41,125,115,70,31.1,Diabetico
+22,97,140,66,23.2,No diabetico
+57,145,110,82,22.2,No diabetico
+28,158,245,76,31.6,Diabetico
+22,88,54,58,24.8,No diabetico
+33,103,192,60,24,No diabetico
+56,111,207,72,37.1,Diabetico
+26,180,70,64,34,No diabetico
+54,171,240,110,45.4,Diabetico
+22,103,82,80,19.4,No diabetico
+26,101,36,50,24.2,No diabetico
+30,88,23,66,24.4,No diabetico
+58,176,300,90,33.7,Diabetico
+42,150,342,66,34.7,No diabetico
+41,187,304,68,37.7,Diabetico
+31,100,110,88,46.8,No diabetico
+22,105,142,64,41.5,No diabetico
+24,141,128,58,25.4,No diabetico
+25,95,38,66,19.6,No diabetico
+27,146,100,85,28.9,No diabetico
+28,100,90,66,32.9,Diabetico
+26,139,140,64,28.6,No diabetico
+23,129,270,86,35.1,No diabetico
+36,83,71,78,29.3,No diabetico
+27,110,125,74,32.4,No diabetico
+26,100,71,68,38.5,No diabetico
+43,136,110,70,37.1,Diabetico
+34,123,176,80,32,No diabetico
+42,81,48,78,46.7,No diabetico
+21,142,64,82,24.7,No diabetico
+40,144,228,72,33.9,No diabetico
+22,71,76,48,20.4,No diabetico
+23,93,64,50,28.7,No diabetico
+31,122,220,90,49.7,Diabetico
+24,81,40,72,26.6,No diabetico
+21,126,152,56,28.7,No diabetico
+37,144,140,58,29.5,No diabetico
+25,83,18,58,34.3,No diabetico
+24,95,36,85,37.4,Diabetico
+24,171,135,72,33.3,Diabetico
+46,155,495,62,34,Diabetico
+23,89,37,76,31.2,No diabetico
+39,160,175,54,30.5,Diabetico
+21,99,51,76,23.2,No diabetico
+25,162,100,76,53.2,Diabetico
+23,107,100,74,33.6,No diabetico
+26,88,99,30,55,Diabetico
+30,120,135,70,42.9,No diabetico
+23,118,94,58,33.3,No diabetico
+40,117,145,88,34.5,Diabetico
+33,173,168,70,29.7,Diabetico
+30,170,225,64,34.5,Diabetico
+26,96,49,68,21.1,No diabetico
+31,125,140,60,33.8,No diabetico
+21,100,50,70,30.8,No diabetico
+22,93,92,60,28.7,No diabetico
+28,105,325,72,36.9,No diabetico
+22,108,63,52,32.5,No diabetico
+23,154,284,62,32.8,No diabetico
+34,106,119,64,30.5,No diabetico
+24,136,204,74,37.4,No diabetico
+42,156,155,86,34.3,Diabetico
+23,153,485,82,40.6,No diabetico
+21,99,94,52,24.6,No diabetico
+23,109,135,56,25.2,No diabetico
+22,88,53,74,29,No diabetico
+47,163,114,72,40.9,Diabetico
+45,102,105,74,37.2,No diabetico
+27,114,285,80,44.2,No diabetico
+41,104,156,74,29.9,Diabetico
+29,111,78,90,28.4,No diabetico
+29,134,130,70,35.4,Diabetico
+23,79,48,60,43.5,No diabetico
+33,75,55,64,29.7,No diabetico
+36,179,130,72,32.7,Diabetico
+26,129,130,110,67.1,Diabetico
+23,119,92,64,34.9,No diabetico
+60,181,495,68,30.1,Diabetico
+33,128,58,98,32,Diabetico
+31,109,114,76,27.9,Diabetico
+25,139,160,80,31.6,Diabetico
+40,123,94,70,33.1,No diabetico
+29,158,210,84,39.4,Diabetico
+23,107,48,62,22.9,Diabetico
+26,109,99,64,34.8,Diabetico
+29,148,318,60,30.9,Diabetico
+27,99,44,70,20.4,No diabetico
+55,103,190,72,37.7,No diabetico
+57,196,280,76,37.5,Diabetico
+21,96,87,64,33.2,No diabetico
+24,140,130,65,42.6,Diabetico
+36,112,175,82,34.2,Diabetico
+38,151,271,70,41.8,Diabetico
+25,109,129,62,35.8,Diabetico
+32,125,120,68,30,No diabetico
+21,177,478,60,34.6,Diabetico
+61,142,190,60,28.8,No diabetico
+26,100,56,66,23.6,No diabetico
+22,87,32,78,34.6,No diabetico
+31,197,744,70,36.7,No diabetico
+24,117,53,80,45.2,No diabetico
+46,134,370,80,46.2,Diabetico
+22,79,37,80,25.4,No diabetico
+23,74,45,68,29.7,No diabetico
+51,181,192,84,35.9,Diabetico
+22,91,88,70,33.1,No diabetico
+33,119,176,50,27.1,Diabetico
+29,146,194,76,38.2,No diabetico
+23,165,680,90,52.3,No diabetico
+34,124,402,70,35.4,No diabetico
+24,90,55,80,24.4,No diabetico
+44,92,258,62,27.6,Diabetico
+24,193,375,50,25.9,No diabetico
+51,155,150,76,33.3,Diabetico
+34,191,130,68,30.9,No diabetico
+43,96,67,74,33.6,No diabetico
+21,108,56,62,25.2,No diabetico
+21,71,45,78,33.2,No diabetico
+25,100,57,70,40.5,No diabetico
+23,104,116,64,27.8,No diabetico
+22,108,278,62,25.3,No diabetico
+39,129,122,76,35.9,No diabetico
+37,133,155,88,32.4,No diabetico
+51,136,135,74,26,No diabetico
+34,155,545,84,38.7,No diabetico
+29,119,220,86,45.6,Diabetico
+26,96,49,56,20.8,No diabetico
+33,108,75,72,36.1,No diabetico
+21,78,40,88,36.9,No diabetico
+25,107,74,62,36.6,Diabetico
+31,128,182,78,43.3,Diabetico
+24,128,194,48,40.5,Diabetico
+28,151,120,62,35.5,No diabetico
+29,146,360,70,28,Diabetico
+24,126,215,84,30.7,No diabetico
+46,100,184,78,36.6,Diabetico
+25,144,135,58,31.6,Diabetico
+35,77,42,82,35.8,No diabetico
+29,120,105,76,39.7,No diabetico
+47,161,132,68,25.5,Diabetico
+21,137,148,68,24.8,No diabetico
+25,128,180,68,30.5,Diabetico
+30,124,205,68,32.9,Diabetico
+22,106,148,70,39.4,No diabetico
+27,155,96,74,26.6,Diabetico
+25,113,85,50,29.5,No diabetico
+26,112,94,68,34.1,No diabetico
+30,99,64,80,19.3,No diabetico
+28,115,140,66,38.1,No diabetico
+31,129,231,60,27.5,No diabetico
+43,152,29,90,26.8,Diabetico
+24,157,168,72,25.6,No diabetico
+30,122,156,64,35.1,Diabetico
+23,102,120,86,45.5,Diabetico
+37,105,68,70,30.8,No diabetico
+25,87,52,58,32.7,No diabetico
+22,95,58,60,23.9,No diabetico
+26,165,255,76,47.9,No diabetico
+33,152,171,78,34.2,Diabetico
+22,130,105,70,25.9,No diabetico
+36,95,73,74,25.9,No diabetico
+49,126,108,88,38.5,No diabetico
+22,139,83,46,28.7,No diabetico
+26,99,74,62,21.8,No diabetico
+24,90,43,62,27.2,No diabetico
+28,125,167,50,33.3,Diabetico
+48,88,54,74,35.3,No diabetico
+29,196,249,76,36.5,Diabetico
+29,189,325,64,31.2,Diabetico
+30,147,293,74,34.9,No diabetico
+30,99,83,54,34,No diabetico
+22,81,66,86,27.5,No diabetico
+45,133,140,102,32.8,Diabetico
+25,173,465,82,38.4,Diabetico
+21,84,66,64,35.8,No diabetico
+25,105,94,58,34.9,No diabetico
+28,122,158,52,36.2,No diabetico
+58,140,325,82,39.2,Diabetico
+22,98,84,82,25.2,No diabetico
+22,87,75,60,37.2,No diabetico
+35,93,72,100,43.4,No diabetico
+24,107,82,72,30.8,No diabetico
+21,109,182,60,25.4,No diabetico
+25,90,59,62,25.1,No diabetico
+25,125,110,70,24.3,No diabetico
+24,119,50,54,22.3,No diabetico
+58,144,285,82,32,Diabetico
+28,100,81,68,31.6,No diabetico
+42,100,196,66,32,No diabetico
+21,131,415,64,23.7,No diabetico
+37,116,87,72,22.1,No diabetico
+25,127,275,58,27.7,No diabetico
+39,96,115,56,24.7,No diabetico
+35,136,88,84,35,Diabetico
+26,123,165,48,42.1,No diabetico
+28,172,579,68,42.4,Diabetico
+25,112,176,72,34.4,No diabetico
+22,143,310,84,42.4,No diabetico
+21,143,61,74,26.2,No diabetico
+21,138,167,60,34.6,Diabetico
+22,173,474,84,35.7,Diabetico
+28,129,115,64,26.4,Diabetico
+26,119,170,88,45.3,No diabetico
+21,94,76,68,26,No diabetico
+21,102,78,64,40.6,No diabetico
+36,151,210,78,42.9,Diabetico
+31,184,277,78,37,Diabetico
+38,181,180,64,34.1,Diabetico
+26,135,145,94,40.6,No diabetico
+43,95,180,82,35,Diabetico
+38,89,85,74,30.4,No diabetico
+22,80,60,74,30,No diabetico
+22,83,50,66,32.2,No diabetico
+24,117,120,64,33.2,No diabetico
+25,180,14,78,59.4,Diabetico
+28,100,70,72,25.3,No diabetico
+26,95,92,80,36.5,No diabetico
+22,104,64,64,33.6,Diabetico
+26,120,63,74,30.5,No diabetico
+23,82,95,64,21.2,No diabetico
+25,91,210,68,39.9,No diabetico
+24,100,105,54,37.8,No diabetico
+24,86,71,68,30.2,No diabetico
+51,148,237,84,37.6,Diabetico
+81,134,60,74,25.9,No diabetico
+48,120,56,72,20.8,No diabetico
+39,74,49,70,35.3,No diabetico
+21,124,105,56,21.8,No diabetico
+22,74,36,52,27.8,No diabetico
+25,97,100,64,36.8,No diabetico
+27,154,140,78,46.1,No diabetico
+29,105,191,80,33.7,Diabetico
+31,114,110,76,23.8,No diabetico
+39,126,75,74,25.9,No diabetico
+35,158,328,70,35.5,Diabetico
+28,85,49,58,27.8,No diabetico
+23,84,125,82,38.2,No diabetico
+24,135,250,68,42.3,Diabetico
+21,139,480,62,40.7,No diabetico
+58,173,265,78,46.5,No diabetico
+24,83,66,65,36.8,No diabetico
+45,125,122,70,28.9,Diabetico
+25,81,76,72,30.1,No diabetico
+55,195,145,70,25.1,Diabetico
+39,154,193,74,29.3,No diabetico
+21,117,71,90,25.2,No diabetico
+41,94,79,64,33.3,No diabetico
+35,180,90,90,36.5,Diabetico
+21,130,170,60,28.6,No diabetico
+21,84,76,50,30.4,No diabetico
+21,139,210,62,22.1,No diabetico
+24,99,86,54,25.6,No diabetico
+28,163,105,70,31.6,Diabetico
+53,145,165,88,30.3,Diabetico
+60,129,326,90,19.6,No diabetico
+25,68,66,70,25,No diabetico
+26,124,130,80,33.2,No diabetico
+21,97,82,64,18.2,No diabetico
+24,116,105,74,26.3,No diabetico
+22,117,188,66,30.8,No diabetico
+22,122,106,60,29.8,No diabetico
+29,86,65,66,41.3,No diabetico
+24,77,56,56,33.3,No diabetico
+23,127,210,80,36.3,No diabetico
+32,129,155,92,36.4,Diabetico
+43,100,215,74,39.4,Diabetico
+27,128,190,72,32.4,Diabetico
+25,84,56,90,39.5,No diabetico
+29,88,76,78,32,No diabetico
+37,186,225,90,34.5,Diabetico
+53,187,207,76,43.6,Diabetico
+28,131,166,68,33.1,No diabetico
+50,164,67,82,32.8,No diabetico
+25,84,106,68,31.9,No diabetico
+23,88,44,62,29.9,No diabetico
+28,84,115,64,36.9,No diabetico
+37,124,215,70,25.5,No diabetico
+28,198,274,66,41.3,Diabetico
+24,87,77,68,37.6,No diabetico
+32,99,54,60,26.9,No diabetico
+22,95,88,54,26.1,No diabetico
+21,99,18,72,38.6,No diabetico
+46,92,126,62,32,No diabetico
+37,154,126,72,31.3,No diabetico
+33,121,165,66,34.3,Diabetico
+22,111,44,58,29.5,No diabetico
+22,98,120,60,34.7,No diabetico
+23,143,330,86,30.1,No diabetico
+25,119,63,44,35.5,No diabetico
+35,108,130,44,24,No diabetico
+52,124,600,76,28.7,Diabetico
+52,176,156,86,33.3,Diabetico
+24,112,140,78,39.4,No diabetico
+25,82,115,52,28.5,No diabetico
+34,123,230,72,33.6,No diabetico
+22,188,185,82,32,Diabetico
+21,89,25,24,27.8,No diabetico
+26,109,120,38,23.1,No diabetico
+54,150,126,78,35.2,Diabetico
+22,181,293,78,40,Diabetico
+25,92,41,62,19.5,No diabetico
+27,152,272,82,41.5,No diabetico
+23,111,182,62,24,No diabetico
+24,106,158,54,30.9,No diabetico
+36,174,194,58,32.9,Diabetico
+40,168,321,88,38.2,Diabetico
+50,138,144,74,36.1,Diabetico
+23,68,15,62,20.1,No diabetico
+28,112,160,86,38.4,No diabetico
+21,94,115,70,43.5,No diabetico
+29,90,54,88,37.7,No diabetico
+24,102,90,78,34.5,No diabetico
+22,128,183,82,27.5,No diabetico
+23,94,66,76,31.6,No diabetico
+32,97,91,76,40.9,Diabetico
+28,100,46,74,19.5,No diabetico
+27,102,105,86,29.3,No diabetico
+27,103,152,72,27.6,No diabetico
+30,157,440,74,39.4,No diabetico
+33,167,144,74,23.4,Diabetico
+22,179,159,50,37.8,Diabetico
+42,136,130,84,28.3,Diabetico
+23,91,100,54,25.2,No diabetico
+27,117,106,60,33.8,No diabetico
+28,123,77,74,34.1,No diabetico
+22,106,135,70,34.2,No diabetico
+25,155,540,52,38.7,Diabetico
+22,101,90,58,21.8,No diabetico
+41,120,200,80,38.9,No diabetico
+27,80,70,82,34.2,Diabetico
+43,167,231,106,37.6,Diabetico
+40,145,130,80,37.9,Diabetico
+24,112,132,80,34.8,No diabetico
+43,98,190,58,34,No diabetico
+45,154,100,78,30.9,No diabetico
+49,165,168,68,33.6,No diabetico
+47,68,49,106,35.5,No diabetico
+22,123,240,100,57.3,No diabetico
+23,101,265,58,24.2,No diabetico
+22,56,45,56,24.2,No diabetico
+22,95,105,64,44.6,No diabetico
+25,129,205,74,33.2,No diabetico
+23,140,180,74,24.1,No diabetico
+46,144,180,82,46.1,Diabetico
+23,121,95,70,39.1,No diabetico
+43,129,125,68,38.5,Diabetico
+43,142,480,90,30.4,Diabetico
+31,169,125,74,29.9,Diabetico
+28,127,155,88,34.5,No diabetico
+26,122,200,76,35.9,No diabetico
+27,110,100,76,28.4,No diabetico
+22,127,335,46,34.4,No diabetico
+23,93,160,64,38,Diabetico
+24,158,387,64,31.2,No diabetico
+40,126,22,78,29.6,No diabetico
+21,134,291,58,26.4,No diabetico
+34,187,392,50,33.9,Diabetico
+31,173,185,78,33.8,Diabetico
+24,108,178,60,35.5,No diabetico
+21,114,200,66,38.1,No diabetico
+42,149,127,68,29.3,Diabetico
+42,117,105,86,39.1,No diabetico
+25,116,180,78,36.1,No diabetico
+34,130,79,78,28.4,Diabetico
+24,174,120,88,44.5,Diabetico
+22,106,165,56,29,No diabetico
+21,126,120,86,27.4,No diabetico
+21,99,160,60,36.6,No diabetico
+48,120,150,80,42.3,Diabetico
+26,102,94,44,30.8,No diabetico
+22,109,116,58,28.5,No diabetico
+39,153,140,88,40.6,No diabetico
+46,100,105,84,30,No diabetico
+32,81,57,74,46.3,No diabetico
+36,187,200,70,36.4,Diabetico
+28,121,74,78,39,No diabetico
+26,181,510,88,43.3,Diabetico
+37,128,110,88,36.5,Diabetico
+22,88,16,58,28.4,No diabetico
+63,101,180,76,32.9,No diabetico
+30,121,112,72,26.2,No diabetico
